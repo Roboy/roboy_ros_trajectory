@@ -1,3 +1,2 @@
 # Roboy Trajectory Control 
-ROS package for recording and playing back trajectories
-
+ROS package for loading and playing back trajectories
